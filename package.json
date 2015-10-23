@@ -1,5 +1,5 @@
 {
-  "name": "nbc-reader",
+  "name": "dm-reader",
   "version": "1.0.0",
   "description": "Reads a Daily Mail article from dailymail.co.uk",
   "main": "index.js",
